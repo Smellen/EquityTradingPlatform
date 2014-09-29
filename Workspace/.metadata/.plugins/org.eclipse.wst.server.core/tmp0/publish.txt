@@ -1,0 +1,3 @@
+#GlassFish 3
+#Mon Sep 29 13:42:31 BST 2014
+org.eclipse.jst.jee.server\:TradingPlatform=C\:\\glassfish-4.0\\glassfish4\\glassfish\\domains\\domain1\\eclipseApps\\TradingPlatform
