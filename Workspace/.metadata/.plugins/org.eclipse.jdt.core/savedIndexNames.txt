@@ -10,7 +10,6 @@ INDEX VERSION 1.126+C:\Users\Citi Tech 2014\Documents\GitHub\EquityTradingPlatfo
 3974580528.index
 646467829.index
 4213593056.index
-2263638352.index
 1526989845.index
 542481154.index
 1299022128.index
